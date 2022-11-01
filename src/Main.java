@@ -36,8 +36,8 @@ public class Main {
                 charMin = symbol;
             }
         }
-        System.out.println("Максимальная частота у символа "+ charMax+ " : " + freqMax);
-        System.out.println("Минимальная частота у символа "+ charMin+ " : " + freqMin);
+        System.out.println("Максимальная частота у символа " + charMax + " : " + freqMax);
+        System.out.println("Минимальная частота у символа " + charMin + " : " + freqMin);
 
     }
 }
